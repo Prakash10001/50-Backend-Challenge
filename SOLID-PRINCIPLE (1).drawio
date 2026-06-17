@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="tjBR_7chGdqzoaoJTYsP">
+    <mxGraphModel dx="997" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFEC71;align=center;verticalAlign=middle;rounded=0;" value="SOLID PRINCIPLE" vertex="1">
+          <mxGeometry height="30" width="290" x="180" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SOLID is a set of 5 Design parrtern whic is introduced by robert" vertex="1">
+          <mxGeometry height="30" width="460" x="40" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="How these priniciple helps developers" vertex="1">
+          <mxGeometry height="30" width="350" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Write" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="1. Clean Code&lt;div&gt;2. Maintainable code&lt;/div&gt;&lt;div&gt;3. Flexible architecture&amp;nbsp;&lt;/div&gt;&lt;div&gt;4. Scalable Products&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="210" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PowerFull" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Real Products&lt;br&gt;1. APIs(Springboot, django, express Js)&lt;div&gt;2. Microservices&lt;/div&gt;&lt;div&gt;3. large Enterprise system&lt;/div&gt;&lt;div&gt;4.SaaS platform&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="220" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;9&quot;&gt;SOLID&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-9" edge="1" parent="1" source="RNGHaTz8GUxZkJWO1s_j-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="17XV01_-njGCOnMoI--j-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="430" />
+              <mxPoint x="460" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-10" connectable="0" parent="17XV01_-njGCOnMoI--j-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="-0.3619" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S - Single Responsibility Principle (SRP)" vertex="1">
+          <mxGeometry height="30" width="380" x="140" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O - Open/Closed Principle (OCP)" vertex="1">
+          <mxGeometry height="30" width="220" x="200" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L - Liskov Substitution Principle (LSP)" vertex="1">
+          <mxGeometry height="30" width="250" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2 data-section-id=&quot;1hrman9&quot; data-start=&quot;2165&quot; data-end=&quot;2209&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;I - Interface Segregation Principle (ISP)&lt;/span&gt;&lt;/h2&gt;&lt;br&gt;&lt;p data-start=&quot;2211&quot; data-end=&quot;2293&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="380" x="190" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D - Dependency Inversion Principle (DIP)" vertex="1">
+          <mxGeometry height="30" width="230" x="215" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;strong data-start=&quot;182&quot; data-end=&quot;197&quot;&gt;Definition:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;A class should have only &lt;strong data-start=&quot;223&quot; data-end=&quot;247&quot;&gt;one reason to change&lt;/strong&gt;, meaning it should have only one responsibility.&lt;div&gt;&lt;b&gt;Bad Example:&lt;br&gt;&lt;/b&gt;&lt;div&gt;class UserService {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void saveUser() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // save user&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void sendEmail() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // send email&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;b&gt;Good Example:&lt;/b&gt;&lt;br&gt;&lt;div&gt;class UserService {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void saveUser() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // save user&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class EmailService {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void sendEmail() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // send email&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="390" width="710" x="120" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="RNGHaTz8GUxZkJWO1s_j-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S" vertex="1">
+          <mxGeometry height="30" width="60" x="225" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="4390" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;strong data-start=&quot;857&quot; data-end=&quot;872&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Definition:&lt;/strong&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Software entities should be &lt;/span&gt;&lt;strong data-start=&quot;901&quot; data-end=&quot;951&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;open for extension but closed for modification&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Bad&amp;nbsp; Example:&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;class PaymentService {&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; public void pay(String type) {&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if(type.equals(&quot;UPI&quot;)) {&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // UPI payment&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; } else if(type.equals(&quot;CARD&quot;)) {&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // Card payment&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Good Example:&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;interface Payment {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; void pay();&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;class UpiPayment implements Payment {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; public void pay() {}&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;class CardPayment implements Payment {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; public void pay() {}&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="700" x="110" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O :" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-8" parent="1" style="whiteSpace=wrap;html=1;" value="Each Class has one job changes are isolated&amp;nbsp;&lt;br&gt;&lt;div&gt;code becomes testable&lt;/div&gt;&lt;div&gt;Product Thinking&lt;br&gt;In real product&lt;/div&gt;&lt;div&gt;1. Payment logic&lt;/div&gt;&lt;div&gt;2. Logging Logic&lt;/div&gt;&lt;div&gt;3. Notification Logic&lt;/div&gt;&lt;div&gt;Show never live in one class&lt;/div&gt;&lt;div&gt;SRP -&amp;gt; Reduces production bugs and team conflicts&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="325" x="500" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-11" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="500" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O - Open/Closed Principle (OCP)" vertex="1">
+          <mxGeometry height="30" width="250" x="110" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No Modification of old code.. we can archive it through polymorphism" vertex="1">
+          <mxGeometry height="30" width="370" x="150" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L - Liskov Substitution Principle (LSP)&lt;br&gt;subclass must be replaceable for their parent class without breaking the behaviour" vertex="1">
+          <mxGeometry height="30" width="660" x="110" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Bad Example:&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;class Bird {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void fly() {}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Penguin extends Bird {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void fly() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; throw new UnsupportedOperationException();&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;Good Example:&lt;/b&gt;&lt;br&gt;&lt;div&gt;interface Bird {}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;interface FlyingBird extends Bird {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void fly();&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;br&gt;&quot;Derived classes should be substitutable for their base classes without changing the correctness of the program.&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="490" width="590" x="140" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I - Interface Segregation Principle" vertex="1">
+          <mxGeometry height="30" width="350" x="160" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clients should not be forced to depend on methods they do not use." vertex="1">
+          <mxGeometry height="30" width="330" x="235" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bad Example:&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;interface Worker {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void work();&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void eat();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Good Example:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;interface Workable {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void work();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;interface Eatable {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void eat();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Large interfaces should be split into smaller, specific interfaces so classes only implement what they need.&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="680" x="120" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D -&amp;nbsp; Dependency Inversion Principle(DIP" vertex="1">
+          <mxGeometry height="30" width="380" x="150" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Bad Example:&lt;/b&gt;&lt;br&gt;&lt;div&gt;class UserService {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private MySQLDatabase db = new MySQLDatabase();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;Good Example:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;interface Database {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void save();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class MySQLDatabase implements Database {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void save() {}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class UserService {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private Database db;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public UserService(Database db) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; this.db = db;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h3 data-section-id=&quot;16h1gg9&quot; data-start=&quot;3180&quot; data-end=&quot;3203&quot;&gt;Spring Boot Example&lt;/h3&gt;&lt;br/&gt;&lt;pre class=&quot;overflow-visible! px-0!&quot; data-start=&quot;3205&quot; data-end=&quot;3309&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;contents&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;relative h-full w-full border-radius-3xl bg-token-bg-elevated-secondary corner-superellipse/1.1 overflow-clip rounded-3xl lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;pointer-events-none absolute inset-x-4 top-12 bottom-4&quot;&gt;&lt;div class=&quot;pointer-events-none sticky z-40 shrink-0 z-1!&quot;&gt;&lt;div class=&quot;sticky bg-token-border-light&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼd ͼr&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;pre class=&quot;cm-content q9tKkq_readonly m-0&quot;&gt;&lt;code&gt;@&lt;span class=&quot;ͼm&quot;&gt;Service&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;ͼg&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;ͼg&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;ͼm&quot;&gt;UserService&lt;/span&gt; {&lt;br&gt;&lt;br&gt;    @&lt;span class=&quot;ͼm&quot;&gt;Autowired&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;ͼg&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;ͼm&quot;&gt;UserRepository&lt;/span&gt; &lt;span class=&quot;ͼm&quot;&gt;repository&lt;/span&gt;;&lt;br&gt;}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;br/&gt;&lt;p data-start=&quot;3311&quot; data-end=&quot;3356&quot;&gt;Spring injects the dependency, following DIP.&lt;br&gt;&lt;/p&gt;&lt;blockquote data-start=&quot;3379&quot; data-end=&quot;3514&quot;&gt;&lt;p data-start=&quot;3381&quot; data-end=&quot;3514&quot;&gt;&quot;High-level modules should depend on abstractions rather than concrete implementations, reducing coupling and improving flexibility.&quot;&lt;/p&gt;&lt;br/&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="590" width="640" x="140" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FAFF3B;align=center;verticalAlign=middle;rounded=0;" value="Quick Over view" vertex="1">
+          <mxGeometry height="30" width="520" x="170" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="17XV01_-njGCOnMoI--j-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2 data-section-id=&quot;1tlkw1x&quot; data-start=&quot;3521&quot; data-end=&quot;3547&quot;&gt;Quick Interview Summary&lt;/h2&gt;&lt;br/&gt;&lt;div class=&quot;TyagGW_tableContainer&quot;&gt;&lt;div tabindex=&quot;-1&quot; class=&quot;group TyagGW_tableWrapper flex flex-col-reverse w-fit&quot;&gt;&lt;table data-start=&quot;3549&quot; data-end=&quot;3841&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot;&gt;&lt;thead data-start=&quot;3549&quot; data-end=&quot;3572&quot;&gt;&lt;tr data-start=&quot;3549&quot; data-end=&quot;3572&quot;&gt;&lt;th data-start=&quot;3549&quot; data-end=&quot;3561&quot; data-col-size=&quot;sm&quot; class=&quot;last:pe-10&quot;&gt;Principle&lt;/th&gt;&lt;th data-start=&quot;3561&quot; data-end=&quot;3572&quot; data-col-size=&quot;md&quot; class=&quot;last:pe-10&quot;&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody data-start=&quot;3598&quot; data-end=&quot;3841&quot;&gt;&lt;tr data-start=&quot;3598&quot; data-end=&quot;3637&quot;&gt;&lt;td data-start=&quot;3598&quot; data-end=&quot;3604&quot; data-col-size=&quot;sm&quot;&gt;SRP&lt;/td&gt;&lt;td data-start=&quot;3604&quot; data-end=&quot;3637&quot; data-col-size=&quot;md&quot;&gt;One class, one responsibility&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;3638&quot; data-end=&quot;3691&quot;&gt;&lt;td data-start=&quot;3638&quot; data-end=&quot;3644&quot; data-col-size=&quot;sm&quot;&gt;OCP&lt;/td&gt;&lt;td data-start=&quot;3644&quot; data-end=&quot;3691&quot; data-col-size=&quot;md&quot;&gt;Open for extension, closed for modification&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;3692&quot; data-end=&quot;3744&quot;&gt;&lt;td data-start=&quot;3692&quot; data-end=&quot;3698&quot; data-col-size=&quot;sm&quot;&gt;LSP&lt;/td&gt;&lt;td data-start=&quot;3698&quot; data-end=&quot;3744&quot; data-col-size=&quot;md&quot;&gt;Child should replace parent without issues&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;3745&quot; data-end=&quot;3787&quot;&gt;&lt;td data-start=&quot;3745&quot; data-end=&quot;3751&quot; data-col-size=&quot;sm&quot;&gt;ISP&lt;/td&gt;&lt;td data-start=&quot;3751&quot; data-end=&quot;3787&quot; data-col-size=&quot;md&quot;&gt;Prefer small, focused interfaces&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;3788&quot; data-end=&quot;3841&quot;&gt;&lt;td data-start=&quot;3788&quot; data-end=&quot;3794&quot; data-col-size=&quot;sm&quot;&gt;DIP&lt;/td&gt;&lt;td data-start=&quot;3794&quot; data-end=&quot;3841&quot; data-col-size=&quot;md&quot;&gt;Depend on abstractions, not implementations&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;br/&gt;&lt;h3 data-section-id=&quot;ip38a5&quot; data-start=&quot;3843&quot; data-end=&quot;3873&quot;&gt;30-Second Interview Answer&lt;/h3&gt;&lt;br/&gt;&lt;blockquote data-start=&quot;3875&quot; data-end=&quot;4278&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;3877&quot; data-end=&quot;4278&quot; data-is-last-node=&quot;&quot;&gt;&quot;SOLID consists of five object-oriented design principles: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles help reduce coupling, improve maintainability, make code easier to test, and support scalable application design. In Spring Boot projects, dependency injection is a common example of the Dependency Inversion Principle.&quot;&lt;/p&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="440" width="700" x="100" y="3280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wIIMWVKWlGYozeL9s0E5" name="Page-2">
+    <mxGraphModel dx="997" dy="2654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ob9Ru3Gqw2q2XmbxDLc0-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="580" width="580" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob9Ru3Gqw2q2XmbxDLc0-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob9Ru3Gqw2q2XmbxDLc0-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="-1110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
